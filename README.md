@@ -1,9 +1,6 @@
 # Elias Repository
 
-Replace the following sentence with 
-the words "Pull request change".
-
-SANTA CLAUS LIKES CHRISTMAS.
+pull request change
 
 To do this, you will have to do a `pull request`.
 
